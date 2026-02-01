@@ -1,4 +1,7 @@
 # Dear ReGui
+# NONE OF THE DOCS ARE ONLINE, I WILL NOT ASSIST YOU WITH USING OR COMPILING THIS, READ THE CODE AND FIGURE IT OUT, THIS IS ONLY USED FOR IN-HOUSE DEVELOPMENT PURPOSES BY ME, I DO NOT ACTIVELY UPDATE THIS LIBRARY.
+
+
 Dear ReGui is a retained dear ImGui library remake designed to be used on Roblox!
 This is perfect for beginners and performance.
 
